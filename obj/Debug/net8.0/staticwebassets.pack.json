@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\wwwroot\\images\\braselet.jpeg",
+      "PackagePath": "staticwebassets\\images\\braselet.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\wwwroot\\images\\coin1.jpeg",
+      "PackagePath": "staticwebassets\\images\\coin1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\wwwroot\\images\\coin2.jpeg",
+      "PackagePath": "staticwebassets\\images\\coin2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\wwwroot\\images\\logopng.png",
+      "PackagePath": "staticwebassets\\images\\logopng.png"
+    },
+    {
+      "Id": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\wwwroot\\images\\shelf1.jpeg",
+      "PackagePath": "staticwebassets\\images\\shelf1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\wwwroot\\images\\shelf2.jpeg",
+      "PackagePath": "staticwebassets\\images\\shelf2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Jewelry.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Jewelry.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Jewelry.props",
+      "PackagePath": "build\\Jewelry.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Jewelry.props",
+      "PackagePath": "buildMultiTargeting\\Jewelry.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Jewelry.props",
+      "PackagePath": "buildTransitive\\Jewelry.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

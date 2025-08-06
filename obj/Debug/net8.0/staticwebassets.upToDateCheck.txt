@@ -1,0 +1,9 @@
+wwwroot\css\app.css
+wwwroot\icon-192.png
+wwwroot\images\braselet.jpeg
+wwwroot\images\coin1.jpeg
+wwwroot\images\coin2.jpeg
+wwwroot\images\logopng.png
+wwwroot\images\shelf1.jpeg
+wwwroot\images\shelf2.jpeg
+wwwroot\index.html

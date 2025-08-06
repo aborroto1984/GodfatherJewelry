@@ -1,0 +1,359 @@
+﻿@page "/"
+
+@using Microsoft.JSInterop
+
+<div class="landing-container">
+    <button class="lang-toggle" @onclick="ToggleLanguage">@currentLanguageLabel</button>
+
+    <div class="logo-mask fade-in"></div>
+
+    <h1 class="tagline">@Translate("Where Timeless Elegance Meets Craftsmanship")</h1>
+
+
+
+    <section class="services-section">
+        <h2>@Translate("Our Services")</h2>
+        <ul>
+            <li>@Translate("Custom Jewelry Design")</li>
+            <li>@Translate("Jewelry Repair & Resizing")</li>
+            <li>@Translate("Appraisals & Consultations")</li>
+        </ul>
+    </section>
+
+    <section class="hours-section">
+        <h2>@Translate("Store Hours")</h2>
+        <table>
+            <tr><td>@Translate("Tuesday - Saturday:")</td><td>10:00 AM - 6:00 PM</td></tr>
+            <tr><td>@Translate("Sunday:")</td><td>@Translate("Closed")</td></tr>
+            <tr><td>@Translate("Monday:")</td><td>@Translate("Closed")</td></tr>
+        </table>
+    </section>
+
+    <section class="carousel-section">
+        <h2>@Translate("Our Collection")</h2>
+        <div class="carousel-wrapper auto-scroll" onmouseenter="this.classList.remove('auto-scroll')" onmouseleave="this.classList.add('auto-scroll')" style="touch-action: pan-x; overflow-x: auto;">
+            <div class="carousel-track">
+                <img src="images/braselet.jpeg" alt="Product 1">
+                <img src="images/coin1.jpeg" alt="Product 2">
+                <img src="images/coin2.jpeg" alt="Product 3">
+                <img src="images/shelf1.jpeg" alt="Product 4">
+                <img src="images/shelf2.jpeg" alt="Product 5">
+                <img src="images/braselet.jpeg" alt="Product 1 Duplicate">
+                <img src="images/coin1.jpeg" alt="Product 2 Duplicate">
+                <img src="images/coin2.jpeg" alt="Product 3 Duplicate">
+                <img src="images/shelf1.jpeg" alt="Product 4 Duplicate">
+                <img src="images/shelf2.jpeg" alt="Product 5 Duplicate">
+            </div>
+        </div>
+    </section>
+
+    <section class="social-media">
+        <h2>@Translate("Connect With Us")</h2>
+        <div class="icons">
+            <a href="https://www.tiktok.com/&#64;joyeriaelpadrino" target="_blank">TikTok</a>
+        </div>
+    </section>
+
+    <section class="location-section">
+        <h2>@Translate("Visit Us")</h2>
+        <a href="https://maps.app.goo.gl/vYp2haeQD7pwhM3v5" target="_blank" class="map-link">
+            @Translate("View on Google Maps")
+        </a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Godfather Jewelry Store. @Translate("All rights reserved.")</p>
+    </footer>
+</div>
+
+@code {
+    private bool isSpanish = false;
+    private string currentLanguageLabel => isSpanish ? "English" : "Español";
+
+    private void ToggleLanguage()
+    {
+        isSpanish = !isSpanish;
+    }
+
+    private string Translate(string text)
+    {
+        if (!isSpanish) return text;
+
+        return text switch
+        {
+            "Where Timeless Elegance Meets Craftsmanship" => "Donde la elegancia atemporal se une con la artesanía",
+            "Our Services" => "Nuestros Servicios",
+            "Custom Jewelry Design" => "Diseño de joyería personalizada",
+            "Jewelry Repair & Resizing" => "Reparación y ajuste de joyas",
+            "Appraisals & Consultations" => "Tasaciones y consultas",
+            "Store Hours" => "Horario de Atención",
+            "Tuesday - Saturday:" => "Martes - Sábado:",
+            "Sunday:" => "Domingo:",
+            "Monday:" => "Lunes:",
+            "Closed" => "Cerrado",
+            "Our Collection" => "Nuestra Colección",
+            "Connect With Us" => "Conéctate con Nosotros",
+            "Visit Us" => "Visítenos",
+            "View on Google Maps" => "Ver en Google Maps",
+            "Featured Piece" => "Pieza Destacada",
+            "This one-of-a-kind bracelet is handmade from the finest materials and crafted with precision." => "Esta pulsera única está hecha a mano con los mejores materiales y una artesanía precisa.",
+            "All rights reserved." => "Todos los derechos reservados.",
+            _ => text
+        };
+    }
+}
+
+<style>
+    @@keyframes fadeZoomIn {
+        0% {
+            opacity: 0;
+            transform: scale(0.8);
+        }
+
+        100% {
+            opacity: 1;
+            transform: scale(1);
+        }
+    }
+
+    @@keyframes autoScrollX {
+        0% {
+            transform: translateX(0);
+        }
+
+        100% {
+            transform: translateX(-50%);
+        }
+    }
+
+    .fade-in {
+        opacity: 0;
+        animation: fadeZoomIn 1s ease-out forwards;
+    }
+
+    .fade-in-delay {
+        opacity: 0;
+        animation: fadeZoomIn 1s ease-out 0.3s forwards;
+    }
+
+    .landing-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem;
+        background-color: #111;
+        color: #f2e6c9;
+        font-family: 'Playfair Display', serif;
+        text-align: center;
+    }
+
+    .lang-toggle {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        background: #f2e6c9;
+        color: #111;
+        border: none;
+        padding: 0.5rem 1rem;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+    }
+
+    .logo-mask {
+        width: 300px;
+        height: 150px;
+        max-width: 80%;
+        background: url("images/logopng.png") no-repeat center/contain;
+    }
+
+    .tagline {
+        font-size: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .featured-piece {
+        margin-bottom: 2rem;
+    }
+
+    .featured-box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 1rem;
+        border: 1px solid #f2e6c9;
+        border-radius: 8px;
+        background-color: #1c1c1c;
+    }
+
+        .featured-box img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+        }
+
+    section {
+        margin-bottom: 2rem;
+        max-width: 800px;
+        width: 100%;
+    }
+
+    .services-section ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .services-section li {
+        margin: 0.5rem 0;
+    }
+
+    .hours-section table {
+        margin: auto;
+        border-spacing: 1rem;
+    }
+
+    .carousel {
+        display: flex;
+        gap: 1rem;
+        padding: 1rem;
+        overflow-x: auto;
+        scrollbar-width: thin;
+        scrollbar-color: #f2e6c9 #222;
+    }
+
+    .carousel-wrapper {
+        width: 100%;
+        max-width: 100vw;
+        position: relative;
+        overflow-x: auto;
+        scroll-behavior: smooth;
+        -webkit-overflow-scrolling: touch;
+    }
+
+        .carousel-wrapper.auto-scroll .carousel-track {
+            animation: scrollCarousel 30s linear infinite;
+            pointer-events: none;
+        }
+
+    tent;
+    will-change: transform;
+    }
+
+    @@keyframes scrollCarousel {
+        0% {
+            transform: translateX(0);
+        }
+
+        100% {
+            transform: translateX(-50%);
+        }
+    }
+
+    .carousel-track {
+        display: flex;
+        gap: 1rem;
+        width: max-content;
+        will-change: transform;
+    }
+
+
+    100% {
+        transform: translateX(-50%);
+    }
+
+    }
+
+    .carousel:hover {
+        animation-play-state: paused;
+    }
+
+    .carousel::-webkit-scrollbar {
+        height: 8px;
+    }
+
+    .carousel::-webkit-scrollbar-track {
+        background: #222;
+    }
+
+    .carousel::-webkit-scrollbar-thumb {
+        background-color: #f2e6c9;
+        border-radius: 4px;
+    }
+
+    .carousel img {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 8px;
+        transition: box-shadow 0.3s ease-in-out;
+    }
+
+        .carousel img:hover {
+            box-shadow: 0 0 15px #d4af37;
+        }
+
+    .social-media .icons a {
+        margin: 0 1rem;
+        color: #f2e6c9;
+        text-decoration: none;
+    }
+
+    .map-link {
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        border: 1px solid #f2e6c9;
+        border-radius: 5px;
+        margin-top: 1rem;
+        text-decoration: none;
+        color: #f2e6c9;
+    }
+
+    footer {
+        margin-top: 3rem;
+        font-size: 0.9rem;
+        opacity: 0.6;
+    }
+
+    @@media (max-width: 600px) {
+        .tagline {
+            font-size: 1.2rem;
+        }
+
+        .carousel {
+            flex-direction: row;
+            overflow-x: scroll;
+            justify-content: start;
+        }
+
+            .carousel img {
+                width: 150px;
+                height: 150px;
+                flex-shrink: 0;
+            }
+    }
+</style>
+
+<!-- Flickity CSS -->
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+
+<!-- Flickity JS -->
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var carousel = document.querySelector('.carousel-track');
+        if (carousel && typeof Flickity !== 'undefined') {
+            new Flickity(carousel, {
+                cellAlign: 'left',
+                contain: true,
+                autoPlay: 2500,
+                pauseAutoPlayOnHover: true,
+                wrapAround: true,
+                pageDots: false
+            });
+        }
+    });
+</script>
