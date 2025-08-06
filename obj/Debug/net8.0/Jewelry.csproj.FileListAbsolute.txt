@@ -619,6 +619,7 @@ C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\Jewelry.AssemblyInf
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\Jewelry.AssemblyInfo.cs
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\Jewelry.csproj.CoreCompileInputs.cache
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\Jewelry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\Jewelry.sourcelink.json
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -1031,6 +1032,6 @@ C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\Jewelry.dll
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\refint\Jewelry.dll
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\Jewelry.pdb
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\ref\Jewelry.dll
-C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\4jeg2i74xt-gqww30a0k0.gz
-C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\m3kxl3d94m-jqpdaar6yp.gz
-C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\eng7hqmjqo-3ghmmhhhdn.gz
+C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\4jeg2i74xt-xibgph5l9m.gz
+C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\m3kxl3d94m-u93g157xjn.gz
+C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\eng7hqmjqo-a1iujllh2j.gz
