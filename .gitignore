@@ -1,0 +1,42 @@
+﻿## Ignore build outputs
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code files
+.vscode/
+
+## Rider project files
+.idea/
+
+## Mac/Linux hidden files
+.DS_Store
+*.swp
+
+## Logs
+*.log
+
+## Secrets
+secrets.json
+
+## Runtime files
+wwwroot/dist/
+.env
+.env.*
+
+## Node/NPM cache
+node_modules/
+
+## Publish artifacts
+/dist
+/out
+/wwwroot/build/
+
+## Optional: ignore images and videos in wwwroot (if dynamically generated)
+# wwwroot/images/
+# wwwroot/videos/
