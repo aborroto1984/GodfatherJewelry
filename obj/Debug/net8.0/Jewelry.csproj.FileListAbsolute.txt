@@ -1032,6 +1032,6 @@ C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\Jewelry.dll
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\refint\Jewelry.dll
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\Jewelry.pdb
 C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\ref\Jewelry.dll
-C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\4jeg2i74xt-xibgph5l9m.gz
-C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\m3kxl3d94m-u93g157xjn.gz
-C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\eng7hqmjqo-a1iujllh2j.gz
+C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\4jeg2i74xt-9ukyezfai4.gz
+C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\m3kxl3d94m-1c8c33lg4y.gz
+C:\Users\aborroto\Downloads\jewelry\Jewelry\obj\Debug\net8.0\compressed\eng7hqmjqo-1n1kabj6ke.gz

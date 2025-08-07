@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF551F6D-1734-4389-AA61-824931FA074F}|Jewelry.csproj|c:\\users\\aborroto\\downloads\\jewelry\\jewelry\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BF551F6D-1734-4389-AA61-824931FA074F}|Jewelry.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF551F6D-1734-4389-AA61-824931FA074F}|Jewelry.csproj|c:\\users\\aborroto\\downloads\\jewelry\\jewelry\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BF551F6D-1734-4389-AA61-824931FA074F}|Jewelry.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -83,12 +87,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-06T17:08:05.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Pages\\Home.razor",
               "ToolTip": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\Pages\\Home.razor",
               "RelativeToolTip": "Pages\\Home.razor",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAawFUAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-06T15:59:07.562Z",
               "EditorCaption": ""

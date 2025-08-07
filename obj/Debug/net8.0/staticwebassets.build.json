@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AWpwQKcZf/vfm/6U/Ii1YEQyi4heKk7yTIn6meFai1A=",
+  "Hash": "MKKu/pDcPxp1myScuMxpafO5MQsHttZi6p62sYGl938=",
   "Source": "Jewelry",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "a1iujllh2j",
-      "Integrity": "zq0YuA/x4ktpdTcU3XSWz6FYEKbAIip/jO3kEkfLqfY=",
+      "Fingerprint": "1n1kabj6ke",
+      "Integrity": "TUuTqZgZQr4etf5X0W1lCcHu0J8YUbTvZWl1jujye28=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "u93g157xjn",
-      "Integrity": "bgbXFGY5s6nZ0R0uIZkz6unyfdeJ217ULGgWowFnvQM=",
+      "Fingerprint": "1c8c33lg4y",
+      "Integrity": "zytu8kld51ft2R7aJM/AY5CcpQL95GYe+7b9j9+6YRE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\Jewelry.pdb"
@@ -304,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "xibgph5l9m",
-      "Integrity": "pzRXzmGCiLS5nrOnF6egG+NuAZcyakhnO59+HpSaOA8=",
+      "Fingerprint": "9ukyezfai4",
+      "Integrity": "/7f59dtI+ynlDa4xqL1VCIYjOdYQC8lV7mTBurFUJCE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\webcil\\Jewelry.wasm"
@@ -4847,7 +4847,7 @@
       "OriginalItemSpec": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.wasm"
     },
     {
-      "Identity": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\4jeg2i74xt-xibgph5l9m.gz",
+      "Identity": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\4jeg2i74xt-9ukyezfai4.gz",
       "SourceId": "Jewelry",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\",
@@ -4861,8 +4861,8 @@
       "RelatedAsset": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Jewelry.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xsos9p87zv",
-      "Integrity": "b6Zfn78P5arXDb/eaR1kOJGaao8G6fsN+plgO20U/us=",
+      "Fingerprint": "9yolfq2u67",
+      "Integrity": "b9e/4WPjw6yHNHIWi/+I9imzn7t/nCY+kCycuZApib8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Jewelry.wasm"
@@ -6128,7 +6128,7 @@
       "OriginalItemSpec": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ObjectModel.wasm"
     },
     {
-      "Identity": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\eng7hqmjqo-a1iujllh2j.gz",
+      "Identity": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\eng7hqmjqo-1n1kabj6ke.gz",
       "SourceId": "Jewelry",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\",
@@ -6142,8 +6142,8 @@
       "RelatedAsset": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zosle32kq5",
-      "Integrity": "faEwMgvbS5SSFQTkf5itqqLYhaHS7hTUhBlnBM6+UMg=",
+      "Fingerprint": "680jlo5dk0",
+      "Integrity": "GlPQbAmFjVjMbW8xOYy0/D78E7k3x7EdLEkpJRp4C2Q=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6947,7 +6947,7 @@
       "OriginalItemSpec": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipes.wasm"
     },
     {
-      "Identity": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\m3kxl3d94m-u93g157xjn.gz",
+      "Identity": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\m3kxl3d94m-1c8c33lg4y.gz",
       "SourceId": "Jewelry",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\",
@@ -6961,8 +6961,8 @@
       "RelatedAsset": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Jewelry.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "79akz77wis",
-      "Integrity": "618dU+tEJcUGN0HhYFeEl49q+1+Q4zBj3jHtxhgBOv8=",
+      "Fingerprint": "szn328hz8k",
+      "Integrity": "OM61Fzchmsx55eF21SgulLFXWj8oKE1WZIsGiBPEmvg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Jewelry.pdb"
@@ -8836,7 +8836,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zq0YuA/x4ktpdTcU3XSWz6FYEKbAIip/jO3kEkfLqfY=\""
+          "Value": "\"TUuTqZgZQr4etf5X0W1lCcHu0J8YUbTvZWl1jujye28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Aug 2025 17:51:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TUuTqZgZQr4etf5X0W1lCcHu0J8YUbTvZWl1jujye28="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\eng7hqmjqo-1n1kabj6ke.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000113109377"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8840"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GlPQbAmFjVjMbW8xOYy0/D78E7k3x7EdLEkpJRp4C2Q=\""
         },
         {
           "Name": "Last-Modified",
@@ -8845,45 +8884,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zq0YuA/x4ktpdTcU3XSWz6FYEKbAIip/jO3kEkfLqfY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\eng7hqmjqo-a1iujllh2j.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000113083795"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8842"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"faEwMgvbS5SSFQTkf5itqqLYhaHS7hTUhBlnBM6+UMg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 06 Aug 2025 16:59:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -8899,19 +8899,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zq0YuA/x4ktpdTcU3XSWz6FYEKbAIip/jO3kEkfLqfY=\""
+          "Value": "W/\"TUuTqZgZQr4etf5X0W1lCcHu0J8YUbTvZWl1jujye28=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zq0YuA/x4ktpdTcU3XSWz6FYEKbAIip/jO3kEkfLqfY="
+          "Value": "sha256-TUuTqZgZQr4etf5X0W1lCcHu0J8YUbTvZWl1jujye28="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\eng7hqmjqo-a1iujllh2j.gz",
+      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\eng7hqmjqo-1n1kabj6ke.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8920,7 +8920,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8842"
+          "Value": "8840"
         },
         {
           "Name": "Content-Type",
@@ -8928,11 +8928,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"faEwMgvbS5SSFQTkf5itqqLYhaHS7hTUhBlnBM6+UMg=\""
+          "Value": "\"GlPQbAmFjVjMbW8xOYy0/D78E7k3x7EdLEkpJRp4C2Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 06 Aug 2025 16:59:17 GMT"
+          "Value": "Wed, 06 Aug 2025 17:04:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8950,7 +8950,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-faEwMgvbS5SSFQTkf5itqqLYhaHS7hTUhBlnBM6+UMg="
+          "Value": "sha256-GlPQbAmFjVjMbW8xOYy0/D78E7k3x7EdLEkpJRp4C2Q="
         }
       ]
     },
@@ -10472,7 +10472,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20832"
+          "Value": "20828"
         },
         {
           "Name": "Content-Type",
@@ -10480,7 +10480,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bgbXFGY5s6nZ0R0uIZkz6unyfdeJ217ULGgWowFnvQM=\""
+          "Value": "\"zytu8kld51ft2R7aJM/AY5CcpQL95GYe+7b9j9+6YRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Aug 2025 17:51:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zytu8kld51ft2R7aJM/AY5CcpQL95GYe+7b9j9+6YRE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Jewelry.pdb",
+      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\m3kxl3d94m-1c8c33lg4y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000063946796"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15637"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OM61Fzchmsx55eF21SgulLFXWj8oKE1WZIsGiBPEmvg=\""
         },
         {
           "Name": "Last-Modified",
@@ -10489,45 +10528,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bgbXFGY5s6nZ0R0uIZkz6unyfdeJ217ULGgWowFnvQM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Jewelry.pdb",
-      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\m3kxl3d94m-u93g157xjn.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000067349138"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14847"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"618dU+tEJcUGN0HhYFeEl49q+1+Q4zBj3jHtxhgBOv8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 06 Aug 2025 16:59:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10543,19 +10543,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bgbXFGY5s6nZ0R0uIZkz6unyfdeJ217ULGgWowFnvQM=\""
+          "Value": "W/\"zytu8kld51ft2R7aJM/AY5CcpQL95GYe+7b9j9+6YRE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bgbXFGY5s6nZ0R0uIZkz6unyfdeJ217ULGgWowFnvQM="
+          "Value": "sha256-zytu8kld51ft2R7aJM/AY5CcpQL95GYe+7b9j9+6YRE="
         }
       ]
     },
     {
       "Route": "_framework/Jewelry.pdb.gz",
-      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\m3kxl3d94m-u93g157xjn.gz",
+      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\m3kxl3d94m-1c8c33lg4y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10564,7 +10564,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14847"
+          "Value": "15637"
         },
         {
           "Name": "Content-Type",
@@ -10572,11 +10572,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"618dU+tEJcUGN0HhYFeEl49q+1+Q4zBj3jHtxhgBOv8=\""
+          "Value": "\"OM61Fzchmsx55eF21SgulLFXWj8oKE1WZIsGiBPEmvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 06 Aug 2025 16:59:16 GMT"
+          "Value": "Wed, 06 Aug 2025 17:04:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10594,7 +10594,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-618dU+tEJcUGN0HhYFeEl49q+1+Q4zBj3jHtxhgBOv8="
+          "Value": "sha256-OM61Fzchmsx55eF21SgulLFXWj8oKE1WZIsGiBPEmvg="
         }
       ]
     },
@@ -10617,7 +10617,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pzRXzmGCiLS5nrOnF6egG+NuAZcyakhnO59+HpSaOA8=\""
+          "Value": "\"/7f59dtI+ynlDa4xqL1VCIYjOdYQC8lV7mTBurFUJCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Aug 2025 17:51:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7f59dtI+ynlDa4xqL1VCIYjOdYQC8lV7mTBurFUJCE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Jewelry.wasm",
+      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\4jeg2i74xt-9ukyezfai4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000114797383"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8710"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b9e/4WPjw6yHNHIWi/+I9imzn7t/nCY+kCycuZApib8=\""
         },
         {
           "Name": "Last-Modified",
@@ -10626,45 +10665,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pzRXzmGCiLS5nrOnF6egG+NuAZcyakhnO59+HpSaOA8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Jewelry.wasm",
-      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\4jeg2i74xt-xibgph5l9m.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000116945387"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8550"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"b6Zfn78P5arXDb/eaR1kOJGaao8G6fsN+plgO20U/us=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 06 Aug 2025 16:59:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10680,19 +10680,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pzRXzmGCiLS5nrOnF6egG+NuAZcyakhnO59+HpSaOA8=\""
+          "Value": "W/\"/7f59dtI+ynlDa4xqL1VCIYjOdYQC8lV7mTBurFUJCE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pzRXzmGCiLS5nrOnF6egG+NuAZcyakhnO59+HpSaOA8="
+          "Value": "sha256-/7f59dtI+ynlDa4xqL1VCIYjOdYQC8lV7mTBurFUJCE="
         }
       ]
     },
     {
       "Route": "_framework/Jewelry.wasm.gz",
-      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\4jeg2i74xt-xibgph5l9m.gz",
+      "AssetFile": "C:\\Users\\aborroto\\Downloads\\jewelry\\Jewelry\\obj\\Debug\\net8.0\\compressed\\4jeg2i74xt-9ukyezfai4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10701,7 +10701,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8550"
+          "Value": "8710"
         },
         {
           "Name": "Content-Type",
@@ -10709,11 +10709,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b6Zfn78P5arXDb/eaR1kOJGaao8G6fsN+plgO20U/us=\""
+          "Value": "\"b9e/4WPjw6yHNHIWi/+I9imzn7t/nCY+kCycuZApib8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 06 Aug 2025 16:59:16 GMT"
+          "Value": "Wed, 06 Aug 2025 17:04:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10731,7 +10731,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-b6Zfn78P5arXDb/eaR1kOJGaao8G6fsN+plgO20U/us="
+          "Value": "sha256-b9e/4WPjw6yHNHIWi/+I9imzn7t/nCY+kCycuZApib8="
         }
       ]
     },

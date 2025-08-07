@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Jewelry",
   "resources": {
-    "hash": "sha256-KyCCoaOkGu/3T5KBUdWFjJATB8YIcQf+AC0WdhC9lQw=",
+    "hash": "sha256-2QQZ9qm1M8MXSPyYr2TjaV38ZtIMjaNInQLGvkQGa+o=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-8L4O6tiH48gEZfzf0Y84J01S+3eEG59Bo5bfpH2H+9Y=",
       "netstandard.wasm": "sha256-sEvS/ZjfGhf1dLglmk72ysM50loOygjujJ/J5OhFLEw=",
       "System.Private.CoreLib.wasm": "sha256-BhHYDTpkph+YJOQuAlv6aSrvjTVX0WLTIDBXecinFXo=",
-      "Jewelry.wasm": "sha256-pzRXzmGCiLS5nrOnF6egG+NuAZcyakhnO59+HpSaOA8="
+      "Jewelry.wasm": "sha256-/7f59dtI+ynlDa4xqL1VCIYjOdYQC8lV7mTBurFUJCE="
     },
     "pdb": {
-      "Jewelry.pdb": "sha256-bgbXFGY5s6nZ0R0uIZkz6unyfdeJ217ULGgWowFnvQM="
+      "Jewelry.pdb": "sha256-zytu8kld51ft2R7aJM/AY5CcpQL95GYe+7b9j9+6YRE="
     }
   },
   "cacheBootResources": true,
